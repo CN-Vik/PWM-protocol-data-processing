@@ -1,3 +1,10 @@
+project/stm32f407zgt6_keil_std/Keil_project/Listings
+project/stm32f407zgt6_keil_std/Keil_project/Objects
+
+
+project/stm32f103c8t6_keil_std/Keil_project/Listings
+project/stm32f103c8t6_keil_std/Keil_project/Objects
+
 # Prerequisites
 *.d
 
